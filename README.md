@@ -1,0 +1,1 @@
+Creamos este repo para subir el archivo del ejemplo del ejercicio "Caballo" implementado por el profesor del grupo M4B, con el fin de dejar aclarado que fue utilizado para la resolucion del ejercicio 10 del obligatorio.
